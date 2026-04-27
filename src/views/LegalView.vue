@@ -1,0 +1,36 @@
+<template>
+  <section class="section">
+    <h1 class="section-title">// Legal Information</h1>
+
+    <div class="grid-1">
+      <div class="card">
+        <h3>Operator</h3>
+        <p>
+          Giulia Amy Lyra Yuna Thiex<br />
+          Villach, Austria
+        </p>
+
+        <br />
+
+        <h3>Service Disclaimer</h3>
+        <p>
+          Yuna is provided "as is" without warranty of any kind.
+        </p>
+
+        <br />
+
+        <h3>Data Processing</h3>
+        <p>
+          Yuna may process technical data necessary for operation.
+        </p>
+
+        <br />
+
+        <h3>External Links Liability</h3>
+        <p>
+          No liability for linked external content.
+        </p>
+      </div>
+    </div>
+  </section>
+</template>

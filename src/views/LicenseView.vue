@@ -1,0 +1,18 @@
+<template>
+  <section class="section">
+    <h1 class="section-title">// MIT License</h1>
+
+    <div class="grid-1">
+      <div class="card">
+        <pre>
+MIT License
+
+Copyright (c) 2026 Giulia Amy Lyra Yuna Thiex
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files...
+        </pre>
+      </div>
+    </div>
+  </section>
+</template>
